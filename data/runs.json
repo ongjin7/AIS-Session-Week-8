@@ -1449,6 +1449,56 @@
       "kept": 596,
       "emailed": true,
       "note": "All sources answered. No LinkedIn alert file this run."
+    },
+    {
+      "run_at": "2026-11-17T06:08:32+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 40
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 35
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 57
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 11
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 5
+        }
+      ],
+      "found": 41,
+      "new": 30,
+      "kept": 626,
+      "emailed": true,
+      "note": "All sources answered. No LinkedIn alert file this run."
     }
   ]
 }
